@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tags>
+  <tag name ="Root">
+    <FullPath>Root</FullPath>
+    <Level>1</Level>
+    <ValueType>None</ValueType>
+    <Value></Value>
+    <Childs>
+      <tag name ="One">
+        <FullPath>Root.One</FullPath>
+        <Level>2</Level>
+        <ValueType>Bool</ValueType>
+        <Value>true</Value>
+        <Childs>
+          <tag name ="Two">
+            <FullPath>Root.One.Two</FullPath>
+            <Level>3</Level>
+            <ValueType>Double</ValueType>
+            <Value>2,1</Value>
+            <Childs>
+              <tag name ="Three">
+                <FullPath>Root.One.Two.Three</FullPath>
+                <Level>4</Level>
+                <ValueType>Int</ValueType>
+                <Value>1</Value>
+              </tag>
+            </Childs>
+          </tag>
+        </Childs>
+      </tag>
+    </Childs>
+  </tag>
+
+</tags>

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tags>
+  <tag name="Root">
+    <FullPath>Root</FullPath>
+    <Level>1</Level>
+    <Value>
+    </Value>
+    <ValueType>None</ValueType>
+    <Childs>
+      <tag name="One">
+        <FullPath>Root.One</FullPath>
+        <Level>2</Level>
+        <Value>True</Value>
+        <ValueType>Bool</ValueType>
+        <Childs>
+          <tag name="Two">
+            <FullPath>Root.One.Two</FullPath>
+            <Level>3</Level>
+            <Value>2,1</Value>
+            <ValueType>Double</ValueType>
+            <Childs>
+              <tag name="Three">
+                <FullPath>Root.One.Two.Three</FullPath>
+                <Level>4</Level>
+                <Value>1</Value>
+                <ValueType>Int</ValueType>
+                <Childs>
+                  <tag name="Four">
+                    <FullPath>Root.One.Two.Three.Four</FullPath>
+                    <Level>5</Level>
+                    <Value>
+                    </Value>
+                    <ValueType>None</ValueType>
+                    <Childs>
+                      <tag name="Five">
+                        <FullPath>Root.One.Two.Three.Four.Five</FullPath>
+                        <Level>6</Level>
+                        <Value>False</Value>
+                        <ValueType>Bool</ValueType>
+                      </tag>
+                    </Childs>
+                  </tag>
+                </Childs>
+              </tag>
+              <tag name="ThreeThree">
+                <FullPath>Root.One.Two.ThreeThree</FullPath>
+                <Level>4</Level>
+                <Value>False</Value>
+                <ValueType>Bool</ValueType>
+              </tag>
+            </Childs>
+          </tag>
+          <tag name="TwoTwo">
+            <FullPath>Root.One.TwoTwo</FullPath>
+            <Level>3</Level>
+            <Value>False</Value>
+            <ValueType>Bool</ValueType>
+            <Childs>
+              <tag name="ThreeThree">
+                <FullPath>Root.One.TwoTwo.ThreeThree</FullPath>
+                <Level>4</Level>
+                <Value>0</Value>
+                <ValueType>Int</ValueType>
+                <Childs>
+                  <tag name="FourFour">
+                    <FullPath>Root.One.TwoTwo.ThreeThree.FourFour</FullPath>
+                    <Level>5</Level>
+                    <Value>
+                    </Value>
+                    <ValueType>None</ValueType>
+                    <Childs>
+                      <tag name="FiveFive">
+                        <FullPath>Root.One.TwoTwo.ThreeThree.FourFour.FiveFive</FullPath>
+                        <Level>6</Level>
+                        <Value>0</Value>
+                        <ValueType>Double</ValueType>
+                      </tag>
+                    </Childs>
+                  </tag>
+                </Childs>
+              </tag>
+            </Childs>
+          </tag>
+          <tag name="A">
+            <FullPath>Root.One.A</FullPath>
+            <Level>3</Level>
+            <Value>0</Value>
+            <ValueType>Double</ValueType>
+            <Childs>
+              <tag name="B">
+                <FullPath>Root.One.A.B</FullPath>
+                <Level>4</Level>
+                <Value>
+                </Value>
+                <ValueType>None</ValueType>
+                <Childs>
+                  <tag name="C">
+                    <FullPath>Root.One.A.B.C</FullPath>
+                    <Level>5</Level>
+                    <Value>0</Value>
+                    <ValueType>Int</ValueType>
+                    <Childs>
+                      <tag name="D">
+                        <FullPath>Root.One.A.B.C.D</FullPath>
+                        <Level>6</Level>
+                        <Value>False</Value>
+                        <ValueType>Bool</ValueType>
+                        <Childs>
+                          <tag name="E">
+                            <FullPath>Root.One.A.B.C.D.E</FullPath>
+                            <Level>7</Level>
+                            <Value>
+                            </Value>
+                            <ValueType>None</ValueType>
+                          </tag>
+                        </Childs>
+                      </tag>
+                    </Childs>
+                  </tag>
+                </Childs>
+              </tag>
+            </Childs>
+          </tag>
+          <tag name="1">
+            <FullPath>Root.One.1</FullPath>
+            <Level>3</Level>
+            <Value>
+            </Value>
+            <ValueType>None</ValueType>
+            <Childs>
+              <tag name="3">
+                <FullPath>Root.One.1.3</FullPath>
+                <Level>4</Level>
+                <Value>0</Value>
+                <ValueType>Double</ValueType>
+              </tag>
+              <tag name="2">
+                <FullPath>Root.One.1.2</FullPath>
+                <Level>4</Level>
+                <Value>0</Value>
+                <ValueType>Double</ValueType>
+                <Childs>
+                  <tag name="5">
+                    <FullPath>Root.One.1.2.5</FullPath>
+                    <Level>5</Level>
+                    <Value>0</Value>
+                    <ValueType>Double</ValueType>
+                  </tag>
+                </Childs>
+              </tag>
+            </Childs>
+          </tag>
+        </Childs>
+      </tag>
+    </Childs>
+  </tag>
+</tags>
